@@ -22,7 +22,7 @@ Fernando Leon Biography, is the website where you can learn about the history of
 ##### 3.1. Clone the project repository.
 $ git clone https://github.com/Fredev7/hiperblog.git
 
-######4. Project uses:
+#### 4. Project uses:
 		Bootstrap 5.1.3.
 #### 5. Issues
 * no issues generated.
